@@ -2,7 +2,7 @@
 
 This repository contains the ideas, prototypes and artefacts of the project "Intermodale Mobilität" of the Zunkunftsstadt-Workshop Dresden (2017).
 
-You can find the flyer for the project [here](../master/documentation/flyer.pdf).
+You can find the flyer for the project [here](../master/documentation/flyer/flyer.pdf).
 
 ## How it should feel (under construction)
 
