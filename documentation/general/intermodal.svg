@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="intermodal.svg"
+   inkscape:export-filename="C:\Users\fdressel\OneDrive - BBF GmbH\Präsentationen\Ladikas\intermodal.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs4">
+    <symbol
+       id="Bus">
+      <title
+         id="title4132">Bus</title>
+      <path
+         d="m 14,58 4,0 0,4 a 3,3 0 0 0 6,0 l 0,-4 24,0 0,4 a 3,3 0 0 0 6,0 l 0,-4 4,0 0,-23 -2,-16 a 8,8 0 0 0 -6,-6 40,40 0 0 0 -28,0 8,8 0 0 0 -6,6 l -2,16 0,23 z M 22,20 a 2.5,2.5 0 0 0 -2.5,2 L 18,35 a 1.5,1.75 0 0 0 1.5,2 l 33,0 A 1.5,1.75 0 0 0 54,35 L 52.5,22 A 2.5,2.5 0 0 0 50,20 z"
+         style="stroke:none;fill-rule:evenodd"
+         id="path4134" />
+      <path
+         d="m 27,16.5 18,0"
+         style="fill:none;stroke:white;stroke-width:3;stroke-linecap:round"
+         id="path4136" />
+      <circle
+         cx="21"
+         cy="48"
+         r="3"
+         style="fill:white;stroke:none"
+         id="circle4138" />
+      <circle
+         cx="51"
+         cy="48"
+         r="3"
+         style="fill:white;stroke:none"
+         id="circle4140" />
+    </symbol>
+    <symbol
+       id="Taxi">
+      <title
+         id="title4112">Taxi</title>
+      <path
+         d="m 23,54 0,5 a 3.5,3.5 0 0 1 -7,0 l 0,-5 -4,0 0,-14 a 4,4 0 0 1 4,-4 l 4,-10 a 6,6 0 0 1 6,-4 l 5,0 0,-2.5 A 1.5,1.5 0 0 1 32.5,18 l 7,0 a 1.5,1.5 0 0 1 1.5,1.5 l 0,2.5 5,0 a 6,6 0 0 1 6,4 l 4,10 a 4,4 0 0 1 4,4 l 0,14 -4,0 0,5 a 3.5,3.5 0 0 1 -7,0 l 0,-5 z m -3,-18 3.5,-8.5 a 2.2,2.2 0 0 1 2,-1.5 l 21,0 a 2.2,2.2 0 0 1 2,1.5 L 52,36 z"
+         style="stroke:none;fill-rule:evenodd"
+         id="path4114" />
+      <circle
+         cx="19.5"
+         cy="43"
+         r="3.5"
+         style="fill:white;stroke:none"
+         id="circle4116" />
+      <circle
+         cx="51.5"
+         cy="43"
+         r="3.5"
+         style="fill:white;stroke:none"
+         id="circle4118" />
+    </symbol>
+    <symbol
+       id="AirTransportation">
+      <title
+         id="title4044">Air Transportation</title>
+      <path
+         d="m 39,10 0,18 25,15 0,7 -25,-9 0,14 6,4 0,6 -9,-3 -9,3 0,-6 6,-4 0,-14 -25,9 0,-7 25,-15 0,-18 a 3,3 0 0 1 6,0 z"
+         style="stroke:none"
+         id="path4046" />
+    </symbol>
+    <symbol
+       id="Heliport">
+      <title
+         id="title4056">Heliport</title>
+      <!-- Pontoon -->
+      <path
+         d="m 31,53 30,0"
+         style="fill:none;stroke-width:6;stroke-linecap:round"
+         id="path4058" />
+      <!-- Body -->
+      <path
+         d="M 30.5,42 29,38 10,30.5 C 7.5,29.5 8,26 11,26 l 41,0 c 4.5,0 7.4,3 8.5,6 l 3,8 c 1,3 -0.5,5 -3.5,5 l -26,0 c -2.5,0 -3,-1.5 -3.5,-3 z"
+         style="stroke:none"
+         id="path4060" />
+      <!-- Windows -->
+      <g
+         style="fill:white;stroke:none"
+         id="g4062">
+        <path
+           d="m 40,36 4.5,0 0,-7 -4.5,0 z"
+           id="path4064" />
+        <path
+           d="m 47,36 4.5,0 0,-7 -4.5,0 z"
+           id="path4066" />
+        <path
+           d="m 58,32.5 1.5,3.5 -5.5,0 0,-7 c 1.5,0.3 3.1,1.5 4,3.5 z"
+           id="path4068" />
+      </g>
+      <!-- Roter -->
+      <g
+         style="fill:none;stroke-width:3"
+         id="g4070">
+        <path
+           d="m 38.5,20 0,6"
+           id="path4072" />
+        <path
+           d="m 33.5,19.5 10,0"
+           style="stroke-width:1.5"
+           id="path4074" />
+        <path
+           d="m 15.5,19.5 17,0"
+           style="stroke-linecap:round"
+           id="path4076" />
+        <path
+           d="m 44.5,19.5 17,0"
+           style="stroke-linecap:round"
+           id="path4078" />
+      </g>
+      <!-- Tail Roter -->
+      <circle
+         cx="10.5"
+         cy="28.5"
+         r="5.5"
+         style="fill:none;stroke-width:2.5"
+         id="circle4080" />
+    </symbol>
+    <symbol
+       id="RailTransportation">
+      <title
+         id="title4192">Rail Transportation</title>
+      <g
+         style="stroke:none"
+         id="g4194">
+        <path
+           d="m 27,12 a 8,8 0 0 0 -8,8 l 0,26 a 8,8 0 0 0 6.156,7.781 L 17,66 l 5,0 6,-9 16,0 6,9 5,0 -8.156,-12.219 A 8,8 0 0 0 53,46 l 0,-26 a 8,8 0 0 0 -8,-8 z m 5,2 8,0 a 1,1 0 0 1 1,1 l 0,2 a 1,1 0 0 1 -1,1 l -8,0 a 1,1 0 0 1 -1,-1 l 0,-2 a 1,1 0 0 1 1,-1 z m -5,6 18,0 a 4,4 0 0 1 4,4 l 0,4 a 4,4 0 0 1 -4,4 l -18,0 a 4,4 0 0 1 -4,-4 l 0,-4 a 4,4 0 0 1 4,-4 z m 2.75,26 a 3.25,3.25 0 1 1 -6.5,0 3.25,3.25 0 1 1 6.5,0 z m 18.75,0 a 3.25,3.25 0 1 1 -6.5,0 3.25,3.25 0 1 1 6.5,0 z"
+           id="path4196" />
+        <circle
+           cx="33.25"
+           cy="9.5"
+           r="2"
+           id="circle4198" />
+        <circle
+           cx="38.75"
+           cy="9.5"
+           r="2"
+           id="circle4200" />
+      </g>
+    </symbol>
+    <symbol
+       id="CarRental">
+      <title
+         id="title4228">Car Rental</title>
+      <g
+         style="stroke:none;fill-rule:evenodd"
+         id="g4230">
+        <!-- Key -->
+        <path
+           d="m 34.5,10 a 9.25,9.25 0 1 0 0,9 l 5,0 2.5,-2.5 2,2 2,-2 2,2 2,-2 2,2 4,-4 c 0.24,-0.24 0.24,-0.76 0,-1 L 52.5,10 z M 25,14.5 a 2.5,2.5 0 0 1 -5,0 2.5,2.5 0 0 1 5,0 z"
+           id="path4232" />
+        <!-- Car -->
+        <path
+           d="m 45.5,27 c 3,0 4.26,1.5 5,3.5 L 54,40 c 1.5,0 4,1.8 4,5 l 0,12 -3,0 0,4 a 3.5,3.5 0 0 1 -7,0 l 0,-4 -24,0 0,4 a 3.5,3.5 0 0 1 -7,0 l 0,-4 -3,0 0,-12 c 0,-3.2 2.5,-5 4,-5 l 3.5,-9.5 c 0.74,-2 2,-3.5 5,-3.5 z m 5,13 -29,0 2.75,-7.5 c 0.36,-1 1,-2 2.25,-2 l 19,0 c 1.25,0 1.89,1 2.25,2 z M 23.5,47 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z M 54.5,47 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z"
+           id="path4234" />
+      </g>
+    </symbol>
+    <symbol
+       id="ArrivingFlights">
+      <title
+         id="title4516">Arriving Flights</title>
+      <g
+         style="stroke:none"
+         id="g4518">
+        <circle
+           cx="34"
+           cy="11"
+           r="5"
+           id="circle4520" />
+        <path
+           d="m 13,9 14.5,14.5 0,41 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-5.5 11.5,0 0,-18 -3,0 0,-2.5 A 1.5,1.5 0 0 0 47.5,37 L 46,37 46,24 A 7,7 0 0 0 39,17 L 28,17 16.5,5.5 A 2.48,2.48 0 0 0 13,9 z m 27.5,16.5 1,0 0,15.5 -1,0 z M 43,39 l 4,0 0,2 -4,0 z m 10,20 2,0 a 3,3 0 0 0 3,-3 l 0,-12 a 3,3 0 0 0 -3,-3 l -2,0 z"
+           id="path4522" />
+      </g>
+    </symbol>
+    <symbol
+       id="WaterTransportation_Inv">
+      <title
+         id="title4221">Water Transportation</title>
+      <rect
+         x="0.5"
+         y="0.5"
+         width="71"
+         height="71"
+         ry="6"
+         style="stroke:white"
+         id="rect4223" />
+      <path
+         d="m 32,8 0,5 -7,0 0,4 -4,0 0,8.25 -3,1.25 C 17,26.9 16.6,28 17,29 l 4,9 0,13.5 c -2,-0.5 -2.5,-2 -6,-2 -4,0 -4,2 -7,2 l 0,5 c 4,0 4,-2 7,-2 3,0 3,2 7,2 4,0 4,-2 7,-2 3,0 4,2 7,2 3,0 3,-2 7,-2 4,0 3,2 7,2 4,0 4,-2 7,-2 3,0 3,2 7,2 l 0,-5 c -3,0 -3,-2 -7,-2 -3.5,0 -4,1.5 -6,2 L 51,38 55,29 c 0.44,-1 0,-2.1 -1,-2.5 l -3,-1.25 0,-8.25 -4,0 0,-4 -7,0 0,-5 z m -3,9 14,0 0,4 4,0 0,2.5 L 36,19 25,23.5 25,21 29,21 z M 15,57.5 c -4,0 -4,2 -7,2 l 0,5 c 4,0 4,-2 7,-2 3,0 3,2 7,2 4,0 4,-2 7,-2 3,0 3,2 7,2 4,0 4,-2 7,-2 3,0 3,2 7,2 4,0 4,-2 7,-2 3,0 3,2 7,2 l 0,-5 c -3,0 -3,-2 -7,-2 -4,0 -4,2 -7,2 -3,0 -3,-2 -7,-2 -4,0 -4,2 -7,2 -3,0 -3,-2 -7,-2 -4,0 -4,2 -7,2 -3,0 -3,-2 -7,-2 z"
+         style="fill:white;stroke:none"
+         id="path4225" />
+    </symbol>
+    <symbol
+       id="BicycleTrail">
+      <title
+         id="title6738">Bicycle Trail</title>
+      <circle
+         cx="42"
+         cy="12.75"
+         r="4.75"
+         style="stroke:none"
+         id="circle6740" />
+      <path
+         d="m 42,29.25 a 2.5,2.5 0 0 1 -1.75,-1.25 l -3,-5 -6.5,6.5 5.75,3.25 a 3.5,3.5 0 0 1 2.25,3.5 l 0,13.5 a 2.75,2.75 0 0 1 -5.5,0 l 0,-11 -10.5,-5.8 a 4,4 0 0 1 -1,-6.25 l 9.75,-9.75 a 4.25,4.25 0 0 1 7,0.5 l 5,8 8.5,0 a 1.875,1.875 0 0 1 0,3.75 z"
+         style="stroke:none"
+         id="path6742" />
+      <circle
+         cx="17.25"
+         cy="49"
+         r="11.75"
+         style="fill:none;stroke-width:2.5"
+         id="circle6744" />
+      <circle
+         cx="55"
+         cy="49"
+         r="11.75"
+         style="fill:none;stroke-width:2.5"
+         id="circle6746" />
+    </symbol>
+    <symbol
+       id="BoatTour">
+      <title
+         id="title6709">Boat Tour</title>
+      <path
+         d="m 6,54 c 2.5,0 5,-1.75 7.5,-1.75 2.5,0 5,1.75 7.5,1.75 2.5,0 5,-1.75 7.5,-1.75 2.5,0 5,1.75 7.5,1.75 2.5,0 5,-1.75 7.5,-1.75 2.5,0 5,1.75 7.5,1.75 2.5,0 5,-1.75 7.5,-1.75 2.5,0 5,1.75 7.5,1.75 l 0,5.5 c -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 z"
+         style="stroke:none"
+         id="path6711" />
+      <path
+         d="m 6,35.625 61,0 c -3.5,6.375 -11,13.125 -16,13.125 -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 -2.5,0 -5,-1.75 -7.5,-1.75 -2.5,0 -5,1.75 -7.5,1.75 z"
+         style="stroke:none"
+         id="path6713" />
+      <path
+         d="m 40,21.625 9,0 c 0,0 2.375,0 3.125,1.625 l 3.375,8 -11.5,0 z m -24,8.625 c 0,0.625 -0.375,1 -1,1 l -5,0 c -0.625,0 -1,-0.375 -1,-1 l 0,-7.625 c 0,-0.625 0.375,-1 1,-1 l 5,0 c 0.625,0 1,0.375 1,1 z m -10,3.25 53,0 -5.375,-12.625 c -1.5,-3.25 -5.375,-2.875 -5.375,-2.875 l -42.25,0 m 30.25,12.25 c 0,0.625 -0.375,1 -1,1 l -5,0 c -0.625,0 -1,-0.375 -1,-1 l 0,-7.625 c 0,-0.625 0.375,-1 1,-1 l 5,0 c 0.625,0 1,0.375 1,1 z m -10,0 c 0,0.625 -0.375,1 -1,1 l -5,0 c -0.625,0 -1,-0.375 -1,-1 l 0,-7.625 c 0,-0.625 0.375,-1 1,-1 l 5,0 c 0.625,0 1,0.375 1,1 z"
+         style="stroke:none"
+         id="path6715" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-221.58869"
+     inkscape:cy="483.89704"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4246"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g4243">
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fad296;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m -302.93372,426.06763 97.87276,-20 97.87275,20 c 1.1574,0.23651 2.13235,0.95103 2.13235,2.13235 l 0,24.46819 0,24.46819 40,24.46819 0,24.46818 0,24.46819 -40,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.87275,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.13235 2.13235,-2.13235 z"
+           id="rect4201"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="scsscccccccsscsscccccccss" />
+      </g>
+      <use
+         transform="translate(-221.06096,478.35291)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#Bus"
+         style="fill:#000000;stroke:#000000"
+         id="use8187" />
+    </g>
+    <g
+       id="g4239"
+       transform="translate(8.888327,-8)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="scsscccccccsscsscccccccss"
+         inkscape:connector-curvature="0"
+         id="rect4201-6"
+         d="m -311.82205,644.14388 97.87276,-20 97.87275,20 c 1.1574,0.23651 2.13235,0.95103 2.13235,2.13235 l 0,24.46819 0,24.46819 40.000006,24.46819 0,24.46818 0,24.46819 -40.000006,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.87275,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.13235 2.13235,-2.13235 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f29d1d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <use
+         transform="translate(-229.14064,697.97281)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#ArrivingFlights"
+         style="fill:#000000;stroke:#000000"
+         id="use8399" />
+    </g>
+    <g
+       id="g4251"
+       transform="translate(-60.06602,326.39597)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="scsscccccccsscsscccccccss"
+         inkscape:connector-curvature="0"
+         id="rect4201-0"
+         d="m -453.2434,99.671658 97.87276,-20 97.87275,20 c 1.1574,0.23651 2.13235,0.951032 2.13235,2.132352 l 0,24.46819 0,24.46819 40,24.46819 0,24.46818 0,24.46819 -40,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.87275,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.132352 2.13235,-2.132352 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b17010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <use
+         transform="translate(-371.37064,152.94193)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#RailTransportation"
+         style="fill:#000000;stroke:#000000"
+         id="use8335" />
+    </g>
+    <g
+       id="g4283"
+       transform="translate(-56,-3.92391)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="scsscccccccsscsscccccccss"
+         inkscape:connector-curvature="0"
+         id="rect4201-2"
+         d="m -35.04025,429.99154 97.87276,-20 97.87275,20 c 1.1574,0.23651 2.13235,0.95103 2.13235,2.13235 l 0,24.46819 0,24.46819 40,24.46819 0,24.46818 0,24.46819 -40,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.87275,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.13235 2.13235,-2.13235 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff1dd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <use
+         transform="translate(46.832505,485.13681)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#CarRental"
+         style="fill:#000000;stroke:#000000"
+         id="use8368" />
+    </g>
+    <g
+       id="g9034"
+       transform="translate(-47.68022,36)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="scsscccccccsscsscccccccss"
+         inkscape:connector-curvature="0"
+         id="rect4201-2-5"
+         d="m -255.2535,179.47371 97.87276,-20 97.87275,20 c 1.1574,0.23651 2.13235,0.95103 2.13235,2.13235 l 0,24.46819 0,24.46819 40,24.46819 0,24.46818 0,24.46819 -40,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.87275,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.13235 2.13235,-2.13235 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff1dd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <use
+         transform="translate(-173.50574,234.49398)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#BicycleTrail"
+         style="fill:#000000;stroke:#000000"
+         id="use8991" />
+    </g>
+    <g
+       id="g9061"
+       transform="translate(-81.253818,-44.36549)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="scsscccccccsscsscccccccss"
+         inkscape:connector-curvature="0"
+         id="rect4201-2-2"
+         d="m -9.786433,680.50937 97.87276,-20 97.872753,20 c 1.1574,0.23651 2.13235,0.95103 2.13235,2.13235 l 0,24.46819 0,24.46819 40,24.46819 0,24.46818 0,24.46819 -40,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.872753,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.13235 2.13235,-2.13235 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0cc98;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <use
+         transform="translate(72.086323,730.27964)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#Taxi"
+         style="fill:#000000;stroke:#000000"
+         id="use8220" />
+    </g>
+    <g
+       id="g8956"
+       transform="translate(128.84905,-110.48377)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="scsscccccccsscsscccccccss"
+         inkscape:connector-curvature="0"
+         id="rect4201-2-50"
+         d="m -642.15847,746.62765 97.87276,-20 97.87275,20 c 1.1574,0.23651 2.13235,0.95103 2.13235,2.13235 l 0,24.46819 0,24.46819 40,24.46819 0,24.46818 0,24.46819 -40,24.46819 0,24.46819 0,24.46819 c 0,1.18132 -0.95103,2.13235 -2.13235,2.13235 l -97.87275,-20 -97.87276,20 c -1.1574,0.23651 -2.13235,-0.95103 -2.13235,-2.13235 l 0,-24.46819 0,-24.46819 40,-24.46819 0,-24.46819 0,-24.46818 -40,-24.46819 0,-24.46819 0,-24.46819 c 0,-1.18132 0.95103,-2.13235 2.13235,-2.13235 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff1dd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 12;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <use
+         transform="translate(-560.78571,797.90451)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#BoatTour"
+         style="fill:#000000;stroke:#000000"
+         id="use8938" />
+    </g>
+  </g>
+</svg>
